@@ -9,7 +9,7 @@
     "mysite_assets": {
       "type": "assets",
       "source": [
-        "src/mysite_assets/assets"
+        "src/mysite_assets"
       ],
       "dependencies": [
         "mysite"
